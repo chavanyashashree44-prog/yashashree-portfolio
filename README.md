@@ -2,17 +2,17 @@
 
 **Aspiring AI Software Developer | Full Stack Developer**
 
-Welcome to my personal portfolio repository! This website showcases my technical skills, projects, education, and journey as a Computer Science Engineering student interested in building practical software and AI-driven solutions.
+Welcome to my personal portfolio repository! This website showcases my technical skills, projects, education, and journey as a Computer Science Engineering student passionate about building practical software and AI-driven solutions.
 
 ## 🔗 Portfolio Links
 
 - **Live Portfolio:** Coming soon
-- **GitHub:** [chavanyashashree44-prog](https://github.com/chavanyashashree44-prog)
-- **LinkedIn:** [Yashashree Chavan](https://www.linkedin.com/in/yashashree-chavan-79613a28a/)
+- **GitHub:** [View my repositories](https://github.com/chavanyashashree44-prog)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yashashree-chavan-79613a28a/)
 
 ## ✨ Features
 
-- Modern, dark-premium portfolio design
+- Modern dark-premium design
 - Responsive layout for desktop, tablet, and mobile
 - Dark and light theme support
 - Animated interface and smooth interactions
@@ -26,7 +26,7 @@ Welcome to my personal portfolio repository! This website showcases my technical
 
 | Technology | Purpose |
 |---|---|
-| React | Building the user interface |
+| React | User interface |
 | Vite | Development server and production build |
 | JavaScript | Application logic |
 | Tailwind CSS | Styling and responsive layouts |
@@ -59,9 +59,9 @@ yashashree-portfolio/
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) installed
-- npm installed
-- Git installed
+- [Node.js](https://nodejs.org/)
+- npm
+- Git
 
 ### Installation
 
@@ -89,7 +89,7 @@ Start the development server:
 npm run dev
 ```
 
-Open the local URL displayed in your terminal, usually:
+Open the local URL shown in your terminal, usually:
 
 ```text
 http://localhost:5173
@@ -109,31 +109,29 @@ Preview the production build locally:
 npm run preview
 ```
 
-The production-ready files are generated in the `dist/` directory.
+The production-ready files will be generated in the `dist/` directory.
 
 ## 🌐 Deployment
 
-This portfolio is intended to be deployed using **Vercel**.
+This portfolio is planned to be deployed using **Vercel**.
 
-Once deployed, the live website URL will be added to the Portfolio Links section above.
+The live website URL will be added here after deployment.
 
 ## 👩‍💻 About Me
 
-I am a final-year Computer Science Engineering student pursuing my B.E. degree, with an expected graduation year of 2027.
+I am a final-year B.E. Computer Science Engineering student at Dnyanshree Institute of Engineering & Technology, with an expected graduation year of 2027.
 
-I am interested in AI software development, full-stack development, and creating projects that solve practical problems. I enjoy learning new technologies and turning ideas into working applications.
+I am interested in AI software development, full-stack development, and building applications that solve practical problems. I enjoy learning new technologies and turning ideas into working projects.
 
 ## 📬 Contact
 
 - **Email:** [yashashreechavan81@gmail.com](mailto:yashashreechavan81@gmail.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yashashree-chavan-79613a28a/)
-- **GitHub:** [View my repositories](https://github.com/chavanyashashree44-prog)
+- **LinkedIn:** [Yashashree Chavan](https://www.linkedin.com/in/yashashree-chavan-79613a28a/)
+- **GitHub:** [chavanyashashree44-prog](https://github.com/chavanyashashree44-prog)
 - **Instagram:** [@yashashreech](https://www.instagram.com/yashashreech/)
 
 ---
 
-<<<<<<< HEAD
-*Designed and developed by Yashashree Chavan.*
-=======
-*Designed and developed by Yashashree Chavan.*
->>>>>>> a15a4563b41bfba65740729c4c1b510231624783
+<p align="center">
+  <i>Designed and developed by Yashashree Chavan.</i>
+</p>
