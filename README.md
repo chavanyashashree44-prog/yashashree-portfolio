@@ -132,4 +132,8 @@ I am interested in AI software development, full-stack development, and creating
 
 ---
 
+<<<<<<< HEAD
 *Designed and developed by Yashashree Chavan.*
+=======
+*Designed and developed by Yashashree Chavan.*
+>>>>>>> a15a4563b41bfba65740729c4c1b510231624783
